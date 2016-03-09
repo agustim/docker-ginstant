@@ -16,5 +16,5 @@ docker build -t ginstant .
 ### Run 
 
 ```sh
-docker run -d -rm -p 9100:9100 -p 8000:8000 ginstant
+docker run -d -p 9100:9100 -p 8000:8000 ginstant
 ```
